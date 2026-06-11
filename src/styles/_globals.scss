@@ -1,0 +1,10 @@
+@use 'variables' as *;
+
+input, button, select, textarea {
+  font-family: $font-body;
+}
+
+a {
+  text-decoration: none;
+  color: $primary;
+}
